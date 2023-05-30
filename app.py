@@ -50,4 +50,4 @@ if st.button("Predict My Chances Of Placement"):
         st.write("Please improve your skills. 🔑")
 
 url = "https://hashmi-waseem.github.io/College-Placement-Registration/"
-st.write("PLEASE FILL THE FORM BY CLICKING THE LINK IF YOUR PLACEMENT CHANCES ARE LOW.  [Registration Form! ✔](%s)" % url)
+st.write("⏩ PLEASE FILL THE FORM BY CLICKING THE LINK IF YOUR PLACEMENT CHANCES ARE LOW.  [Registration Form! ✔](%s)" % url)
